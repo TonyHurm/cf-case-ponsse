@@ -1,0 +1,16 @@
+﻿Risk-free rate
+The risk-free rate used in WACC-calculations is assumed zero. This is based on Finnish 
+5-year government bond rate of -0.45 %, Finnish 10-year government bond rate of 0.42 
+% and Euribor-12 rate of -0.079 %. (Bank of Finland 2016)
+
+Liquidity Premium
+Liquidity premium of 3.2 % is used in Ponsse Oyj’s WACC-calculations. This premium 
+is equal to PwC’s 2015 research on equity market risk premium in Finland, where the 
+average illiquidity premium is 3.2 %. Ponsse Oyj is considered illiquid since the 
+average trading volume of its stock is 10 689. (PwC 2015; Yahoo Finance 2016)
+
+Market Risk Premium 
+Market risk premium of 5.8 % is used in Ponsse Oyj’s WACC-calculations. This 
+premium is equal to PwC’s 2015 research on equity market risk premium in Finland, 
+where the average expectation of market risk premium is 5.8 %. (PwC 2015)
+
